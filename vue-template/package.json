@@ -1,0 +1,10 @@
+{
+  "name": "@yejiwei/template-vue3",
+  "version": "1.0.1",
+  "description": "jw-cli vue3 template",
+  "author": "yejw6",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}

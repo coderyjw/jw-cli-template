@@ -1,0 +1,10 @@
+{
+  "name": "@yejiwei/template-react18",
+  "version": "1.0.0",
+  "description": "jw-cli react18 template",
+  "author": "yejw6",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
