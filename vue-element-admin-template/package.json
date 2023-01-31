@@ -1,0 +1,11 @@
+{
+  "name": "@yejiwei/vue-element-admin-template",
+  "version": "1.0.0",
+  "description": "jw-cli vue-element-admin template",
+  "main": "index.js",
+  "author": "yejw6",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
